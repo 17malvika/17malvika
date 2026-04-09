@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @17malvika
-- 👀 I’m interested in learning Java
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python open source projects. 
 - 📫 How to reach me : Connect with me on LinkedIn here - https://www.linkedin.com/in/17malvika/ 
